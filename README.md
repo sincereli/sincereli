@@ -26,10 +26,8 @@
 ### 📈 GitHub 统计 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sincereli&show_icons=true&theme=nord" alt="sincereli's github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sincereli&layout=compact&theme=nord" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sincereli&theme=react-dark" alt="sincereli's activity graph" width="100%" />
 </p>
-
 ---
 
 ### 📫 联系方式 (Connect with me)
