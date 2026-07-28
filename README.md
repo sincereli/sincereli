@@ -17,9 +17,9 @@
 
 ### 🔭 正在进行 (What I'm up to)
 
-- 🔭 **正在关注**：数学建模、优化算法 (Genetic Algorithm, Dijkstra, Monte Carlo) & LLM 应用开发
+- 🔭 **正在关注**：数学建模、优化算法 (Genetic Algorithm, Dijkstra, Monte Carlo)
 - 🌱 **深入学习**：Python 高级特性、算法性能优化与代码工程化
-- 💬 **擅长领域**：数学建模中的编程实现、算法仿真与自动化处理
+- 💬 **擅长领域**：数学建模中的编程实现、算法仿真
 
 ---
 
