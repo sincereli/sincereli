@@ -26,7 +26,7 @@
 ### 📈 GitHub 统计 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sincereli&theme=react-dark" alt="sincereli's activity graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sincereli&theme=nord" alt="sincereli's streak stats" width="80%" />
 </p>
 ---
 
